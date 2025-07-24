@@ -1,0 +1,551 @@
+restaurant_name,location,votes,aggregate_rating,cuisines,cost_for_two
+Restaurant 126,Mumbai,3292,3.0,Continental,500
+Restaurant 195,Kolkata,2882,3.0,Continental,1500
+Restaurant 174,Chennai,3396,4.8,Bakery,500
+Restaurant 21,Mumbai,2596,3.4,Continental,300
+Restaurant 199,Hyderabad,2907,3.1,Chinese,300
+Restaurant 101,Chennai,2648,3.6,Seafood,800
+Restaurant 67,Mumbai,4436,3.0,Chinese,1200
+Restaurant 168,Pune,1744,3.2,Thai,1200
+Restaurant 84,Delhi,3358,2.7,North Indian,500
+Restaurant 21,Kolkata,1492,4.8,Biryani,800
+Restaurant 68,Mumbai,2862,3.7,Bakery,300
+Restaurant 47,Bangalore,4835,3.7,Thai,1500
+Restaurant 200,Hyderabad,294,4.0,Mughlai,1200
+Restaurant 3,Pune,799,3.8,North Indian,300
+Restaurant 55,Mumbai,1595,3.6,North Indian,1500
+Restaurant 18,Hyderabad,2653,3.0,Street Food,1500
+Restaurant 1,Ahmedabad,2986,3.4,Street Food,800
+Restaurant 141,Chennai,1341,2.6,North Indian,1200
+Restaurant 85,Delhi,2762,4.6,Street Food,1200
+Restaurant 131,Bangalore,2932,4.8,Thai,1200
+Restaurant 157,Delhi,3021,2.7,Chinese,1000
+Restaurant 142,Hyderabad,482,3.6,Chinese,1000
+Restaurant 95,Chennai,4135,3.6,North Indian,500
+Restaurant 195,Bangalore,1272,3.1,Street Food,1000
+Restaurant 15,Mumbai,3942,3.6,Seafood,1000
+Restaurant 5,Kolkata,831,2.6,Mexican,800
+Restaurant 39,Pune,2383,2.6,Mexican,300
+Restaurant 66,Kolkata,2241,3.3,Bakery,800
+Restaurant 66,Ahmedabad,3773,2.7,Biryani,1200
+Restaurant 62,Chennai,595,3.2,Mughlai,300
+Restaurant 105,Chennai,4900,3.9,Chinese,500
+Restaurant 20,Mumbai,206,4.1,South Indian,500
+Restaurant 172,Ahmedabad,3019,4.2,Mexican,1000
+Restaurant 121,Pune,2244,4.5,Bakery,500
+Restaurant 132,Bangalore,4851,3.2,Biryani,1200
+Restaurant 67,Hyderabad,1216,2.8,Japanese,1200
+Restaurant 28,Ahmedabad,160,3.3,Thai,800
+Restaurant 17,Ahmedabad,3526,4.1,Italian,1200
+Restaurant 52,Delhi,563,3.8,Bakery,1500
+Restaurant 10,Pune,4383,3.7,Thai,800
+Restaurant 191,Delhi,212,4.4,Continental,1200
+Restaurant 121,Mumbai,3251,2.8,Chinese,800
+Restaurant 12,Bangalore,139,3.9,Bakery,800
+Restaurant 137,Kolkata,482,4.6,Mexican,1200
+Restaurant 56,Ahmedabad,3070,4.8,Chinese,1000
+Restaurant 83,Delhi,2036,3.7,North Indian,800
+Restaurant 1,Pune,905,3.3,Mughlai,1000
+Restaurant 12,Delhi,2873,3.3,Street Food,300
+Restaurant 49,Bangalore,3364,3.8,Street Food,800
+Restaurant 165,Hyderabad,875,2.8,Street Food,500
+Restaurant 66,Pune,4232,4.9,Italian,1000
+Restaurant 44,Hyderabad,4356,3.1,Thai,1500
+Restaurant 183,Ahmedabad,2709,3.1,Mughlai,1000
+Restaurant 75,Bangalore,134,4.3,Street Food,1500
+Restaurant 102,Ahmedabad,643,3.9,Japanese,800
+Restaurant 24,Pune,1289,4.7,Mughlai,1000
+Restaurant 98,Kolkata,1003,4.0,Italian,300
+Restaurant 65,Bangalore,2968,3.0,South Indian,1500
+Restaurant 80,Kolkata,3184,3.7,Mughlai,1000
+Restaurant 185,Ahmedabad,304,4.3,Mexican,1200
+Restaurant 156,Bangalore,1026,2.8,Chinese,800
+Restaurant 199,Kolkata,1624,3.9,Japanese,1200
+Restaurant 127,Hyderabad,2725,3.1,Japanese,500
+Restaurant 97,Chennai,3140,2.9,Continental,500
+Restaurant 185,Mumbai,2224,4.5,Mexican,300
+Restaurant 35,Chennai,169,4.9,Mexican,1000
+Restaurant 1,Hyderabad,4905,3.1,Bakery,300
+Restaurant 27,Hyderabad,1096,2.5,Seafood,1500
+Restaurant 34,Kolkata,440,3.8,Thai,1500
+Restaurant 177,Kolkata,1008,4.6,Mughlai,500
+Restaurant 17,Pune,4095,4.4,Continental,1200
+Restaurant 73,Hyderabad,3766,4.7,Continental,500
+Restaurant 174,Kolkata,2970,2.8,Continental,1200
+Restaurant 74,Ahmedabad,1498,3.6,Mexican,1500
+Restaurant 102,Hyderabad,4095,4.5,Italian,1500
+Restaurant 173,Ahmedabad,2470,3.3,Italian,300
+Restaurant 127,Chennai,1215,4.2,Street Food,500
+Restaurant 13,Delhi,3861,2.9,Bakery,500
+Restaurant 107,Delhi,484,3.5,Chinese,1000
+Restaurant 33,Hyderabad,2365,3.4,Seafood,300
+Restaurant 179,Ahmedabad,1716,4.1,South Indian,1000
+Restaurant 5,Ahmedabad,3498,4.2,Chinese,500
+Restaurant 155,Pune,868,2.7,Chinese,300
+Restaurant 34,Chennai,3242,4.7,Mughlai,1500
+Restaurant 185,Mumbai,1743,3.4,Thai,1200
+Restaurant 196,Hyderabad,1294,4.4,Chinese,1500
+Restaurant 19,Delhi,1591,3.4,Chinese,800
+Restaurant 41,Ahmedabad,2267,3.7,Continental,1000
+Restaurant 146,Ahmedabad,1124,5.0,Street Food,500
+Restaurant 80,Delhi,2088,3.3,Biryani,1500
+Restaurant 67,Pune,1124,4.6,Continental,1000
+Restaurant 50,Ahmedabad,815,3.8,South Indian,800
+Restaurant 35,Delhi,4922,4.0,North Indian,1500
+Restaurant 30,Delhi,1346,5.0,Mexican,800
+Restaurant 161,Ahmedabad,383,4.7,Japanese,500
+Restaurant 192,Ahmedabad,4857,4.0,Continental,500
+Restaurant 116,Hyderabad,1980,4.4,Japanese,1000
+Restaurant 59,Bangalore,482,4.0,Mughlai,1000
+Restaurant 52,Bangalore,1795,4.9,South Indian,800
+Restaurant 116,Mumbai,1734,4.5,Thai,1000
+Restaurant 40,Bangalore,4417,3.3,Thai,500
+Restaurant 7,Kolkata,2475,4.8,Street Food,300
+Restaurant 52,Bangalore,687,4.8,Chinese,800
+Restaurant 71,Delhi,2273,3.0,Chinese,500
+Restaurant 23,Pune,3018,4.7,Mughlai,1500
+Restaurant 106,Delhi,3720,2.7,Street Food,1200
+Restaurant 159,Ahmedabad,2939,4.2,Seafood,500
+Restaurant 172,Bangalore,1580,2.7,Seafood,1500
+Restaurant 146,Mumbai,4677,4.8,Mexican,800
+Restaurant 50,Bangalore,4656,4.5,Seafood,1000
+Restaurant 50,Bangalore,4774,3.3,Street Food,1500
+Restaurant 58,Bangalore,117,4.9,Street Food,1500
+Restaurant 199,Ahmedabad,791,3.8,Biryani,1500
+Restaurant 198,Mumbai,3340,4.5,Thai,1200
+Restaurant 85,Mumbai,472,3.2,Japanese,800
+Restaurant 36,Bangalore,3332,2.9,Chinese,800
+Restaurant 153,Delhi,4537,3.1,Japanese,300
+Restaurant 1,Delhi,579,3.7,North Indian,1200
+Restaurant 195,Pune,1065,3.9,Biryani,1500
+Restaurant 35,Bangalore,4239,3.7,Thai,500
+Restaurant 78,Pune,2636,3.0,Mexican,800
+Restaurant 200,Delhi,1008,4.5,Mexican,300
+Restaurant 24,Chennai,577,3.2,Seafood,300
+Restaurant 174,Hyderabad,3482,4.7,Mexican,1200
+Restaurant 24,Delhi,3763,3.4,South Indian,500
+Restaurant 31,Chennai,32,3.8,Thai,1200
+Restaurant 105,Chennai,98,2.8,Chinese,1200
+Restaurant 82,Ahmedabad,1704,3.9,Thai,500
+Restaurant 146,Delhi,2628,3.0,North Indian,300
+Restaurant 81,Delhi,3522,3.0,Street Food,500
+Restaurant 126,Delhi,566,3.6,Biryani,300
+Restaurant 97,Delhi,4051,3.5,Thai,500
+Restaurant 174,Delhi,743,3.0,Chinese,500
+Restaurant 31,Hyderabad,3715,3.1,Mughlai,800
+Restaurant 50,Bangalore,3982,3.9,Biryani,800
+Restaurant 90,Hyderabad,1481,4.3,Street Food,1500
+Restaurant 83,Delhi,31,3.2,Bakery,800
+Restaurant 48,Chennai,3334,2.7,Japanese,1500
+Restaurant 160,Kolkata,3584,3.9,South Indian,800
+Restaurant 168,Ahmedabad,2301,4.3,Continental,1000
+Restaurant 42,Ahmedabad,4572,4.1,Continental,1000
+Restaurant 146,Delhi,39,2.5,Japanese,1000
+Restaurant 47,Delhi,2133,3.4,Thai,300
+Restaurant 166,Pune,4188,3.6,Biryani,800
+Restaurant 144,Mumbai,1875,3.1,North Indian,1500
+Restaurant 114,Delhi,1053,2.8,Chinese,1200
+Restaurant 184,Chennai,3841,2.9,North Indian,1200
+Restaurant 17,Mumbai,796,3.4,South Indian,1000
+Restaurant 126,Mumbai,4860,3.5,Bakery,1500
+Restaurant 161,Pune,1076,3.0,Chinese,300
+Restaurant 96,Kolkata,1272,3.1,Italian,500
+Restaurant 132,Kolkata,1481,4.8,Chinese,1000
+Restaurant 24,Hyderabad,1219,4.1,Seafood,300
+Restaurant 29,Hyderabad,4642,4.4,Chinese,800
+Restaurant 138,Kolkata,937,2.6,Seafood,800
+Restaurant 37,Pune,621,4.9,Mughlai,300
+Restaurant 45,Mumbai,1585,3.5,Street Food,1200
+Restaurant 40,Bangalore,2257,4.9,Mughlai,300
+Restaurant 28,Chennai,4766,3.2,Seafood,1000
+Restaurant 175,Mumbai,4052,4.8,Mexican,1500
+Restaurant 75,Hyderabad,799,3.2,Street Food,1000
+Restaurant 60,Delhi,2570,3.2,Continental,800
+Restaurant 71,Pune,4744,4.9,Japanese,800
+Restaurant 125,Pune,508,4.9,Street Food,500
+Restaurant 133,Mumbai,2658,4.8,Bakery,800
+Restaurant 64,Ahmedabad,415,3.9,Street Food,1200
+Restaurant 92,Pune,880,4.3,Italian,800
+Restaurant 35,Kolkata,858,4.5,Seafood,300
+Restaurant 85,Pune,1468,3.0,South Indian,1000
+Restaurant 33,Pune,1757,4.2,Biryani,500
+Restaurant 199,Hyderabad,3953,4.9,North Indian,1200
+Restaurant 56,Pune,4274,3.1,South Indian,1000
+Restaurant 82,Delhi,4457,3.4,Biryani,1200
+Restaurant 36,Mumbai,2394,3.6,Mughlai,800
+Restaurant 31,Hyderabad,2015,4.3,Biryani,1500
+Restaurant 31,Delhi,505,2.8,South Indian,1200
+Restaurant 137,Hyderabad,2284,4.6,Chinese,1200
+Restaurant 99,Ahmedabad,993,4.9,Mughlai,800
+Restaurant 27,Mumbai,115,2.9,South Indian,800
+Restaurant 128,Pune,1171,4.8,Mexican,300
+Restaurant 144,Delhi,2471,2.6,Thai,300
+Restaurant 81,Pune,1869,2.6,Chinese,300
+Restaurant 108,Chennai,4556,3.1,Chinese,800
+Restaurant 42,Bangalore,4420,3.6,Continental,300
+Restaurant 32,Bangalore,1374,2.7,Bakery,800
+Restaurant 135,Chennai,4444,2.6,Japanese,1500
+Restaurant 175,Kolkata,2719,2.9,Street Food,300
+Restaurant 116,Chennai,4115,2.8,Italian,800
+Restaurant 119,Hyderabad,2119,4.3,Japanese,1500
+Restaurant 88,Kolkata,2959,3.7,South Indian,1500
+Restaurant 57,Mumbai,4821,4.6,Street Food,300
+Restaurant 64,Pune,3959,3.7,South Indian,500
+Restaurant 54,Ahmedabad,3472,2.8,Bakery,800
+Restaurant 16,Pune,4994,2.6,Italian,1500
+Restaurant 38,Kolkata,45,4.2,Italian,300
+Restaurant 57,Ahmedabad,2669,2.7,Street Food,1500
+Restaurant 15,Bangalore,359,4.6,Seafood,1000
+Restaurant 136,Mumbai,2743,4.2,Thai,500
+Restaurant 102,Bangalore,350,3.6,Italian,300
+Restaurant 113,Bangalore,2471,3.3,Biryani,1000
+Restaurant 55,Chennai,480,4.8,Thai,1000
+Restaurant 176,Chennai,4649,4.3,Street Food,1200
+Restaurant 45,Mumbai,3019,2.5,Mughlai,1000
+Restaurant 166,Kolkata,2410,3.6,Japanese,800
+Restaurant 69,Chennai,2376,4.1,Thai,300
+Restaurant 52,Mumbai,1803,4.7,North Indian,1500
+Restaurant 148,Delhi,2289,4.2,Street Food,1500
+Restaurant 89,Kolkata,1057,3.2,Seafood,1500
+Restaurant 83,Bangalore,1489,4.6,Biryani,1200
+Restaurant 134,Delhi,2496,4.0,Mexican,300
+Restaurant 20,Pune,2407,2.6,Italian,500
+Restaurant 63,Mumbai,4644,2.7,Continental,1200
+Restaurant 110,Hyderabad,2916,3.0,Seafood,800
+Restaurant 179,Bangalore,2441,4.8,Chinese,1500
+Restaurant 141,Hyderabad,679,3.6,Bakery,500
+Restaurant 34,Chennai,1092,2.5,Mughlai,300
+Restaurant 6,Chennai,4758,3.0,South Indian,300
+Restaurant 184,Delhi,941,3.6,South Indian,300
+Restaurant 91,Bangalore,4571,4.8,Chinese,1000
+Restaurant 77,Pune,477,4.9,Italian,300
+Restaurant 126,Kolkata,1884,2.7,Japanese,500
+Restaurant 71,Ahmedabad,2420,4.4,Seafood,1000
+Restaurant 147,Chennai,680,4.7,Mughlai,300
+Restaurant 29,Pune,3109,3.0,Mughlai,500
+Restaurant 133,Mumbai,2137,3.5,Mexican,1500
+Restaurant 199,Bangalore,346,3.6,Continental,800
+Restaurant 19,Pune,3339,3.4,Mughlai,1200
+Restaurant 165,Pune,3186,3.2,Thai,1200
+Restaurant 191,Bangalore,3325,3.3,Japanese,300
+Restaurant 65,Kolkata,1089,3.3,Seafood,500
+Restaurant 88,Kolkata,953,2.8,Chinese,1000
+Restaurant 71,Bangalore,4011,2.5,Bakery,1500
+Restaurant 36,Mumbai,1365,3.4,Continental,800
+Restaurant 112,Kolkata,2215,3.2,South Indian,1500
+Restaurant 200,Mumbai,4206,4.4,Mexican,1200
+Restaurant 28,Kolkata,769,3.3,North Indian,1200
+Restaurant 77,Kolkata,1762,4.2,Mexican,800
+Restaurant 22,Pune,2107,4.4,Chinese,800
+Restaurant 133,Ahmedabad,4407,2.8,Mexican,1500
+Restaurant 89,Kolkata,777,4.7,Bakery,800
+Restaurant 159,Ahmedabad,915,2.8,Japanese,500
+Restaurant 183,Hyderabad,4555,3.9,Street Food,300
+Restaurant 52,Ahmedabad,4650,2.7,Seafood,1500
+Restaurant 109,Delhi,3671,3.8,Mexican,300
+Restaurant 169,Pune,4924,3.7,Street Food,1500
+Restaurant 79,Ahmedabad,4630,3.5,Mexican,1200
+Restaurant 114,Chennai,3321,2.8,Biryani,800
+Restaurant 165,Chennai,1195,2.8,Continental,1500
+Restaurant 27,Delhi,3257,4.7,Continental,1500
+Restaurant 7,Kolkata,2441,3.9,Seafood,800
+Restaurant 55,Hyderabad,760,4.4,Street Food,300
+Restaurant 187,Hyderabad,808,3.9,North Indian,1000
+Restaurant 44,Kolkata,862,3.5,Street Food,1500
+Restaurant 68,Ahmedabad,4179,2.6,Mexican,1200
+Restaurant 83,Mumbai,2582,3.5,Japanese,300
+Restaurant 26,Mumbai,81,4.4,North Indian,1200
+Restaurant 92,Mumbai,488,3.8,Continental,1000
+Restaurant 89,Kolkata,4452,3.6,Chinese,800
+Restaurant 27,Hyderabad,1209,4.4,Chinese,1500
+Restaurant 9,Kolkata,3582,3.1,North Indian,500
+Restaurant 134,Ahmedabad,109,4.7,Bakery,300
+Restaurant 21,Bangalore,1873,4.6,Japanese,1200
+Restaurant 36,Hyderabad,1356,2.9,Street Food,1000
+Restaurant 158,Mumbai,1625,2.7,Thai,500
+Restaurant 107,Chennai,697,3.5,Seafood,800
+Restaurant 109,Pune,4945,4.0,South Indian,1200
+Restaurant 182,Hyderabad,2407,4.8,North Indian,1000
+Restaurant 123,Hyderabad,290,2.6,Mughlai,1200
+Restaurant 59,Kolkata,748,4.7,Biryani,1200
+Restaurant 114,Chennai,781,3.5,North Indian,300
+Restaurant 87,Delhi,1495,4.2,Seafood,1200
+Restaurant 188,Kolkata,1981,2.9,Seafood,1000
+Restaurant 69,Ahmedabad,4569,2.6,Mughlai,500
+Restaurant 90,Mumbai,1457,4.2,Biryani,1200
+Restaurant 58,Mumbai,627,2.6,Thai,1500
+Restaurant 128,Delhi,3681,4.5,Seafood,800
+Restaurant 165,Delhi,4396,4.3,North Indian,1000
+Restaurant 100,Delhi,911,4.4,Seafood,800
+Restaurant 78,Chennai,4498,2.6,Biryani,300
+Restaurant 97,Delhi,122,2.8,Seafood,800
+Restaurant 175,Kolkata,1322,2.6,North Indian,1000
+Restaurant 180,Kolkata,2504,3.2,Japanese,300
+Restaurant 162,Mumbai,4484,4.0,Bakery,1500
+Restaurant 82,Kolkata,4259,4.7,Mughlai,800
+Restaurant 196,Kolkata,4439,3.0,Continental,1000
+Restaurant 45,Pune,4488,3.0,Street Food,1500
+Restaurant 89,Pune,1186,4.7,Mughlai,800
+Restaurant 46,Chennai,374,2.8,Mughlai,800
+Restaurant 159,Kolkata,410,2.6,Street Food,1500
+Restaurant 145,Delhi,167,3.5,Street Food,1000
+Restaurant 129,Hyderabad,2348,3.7,North Indian,1000
+Restaurant 88,Chennai,2519,3.9,Chinese,500
+Restaurant 143,Kolkata,4061,3.7,Street Food,1000
+Restaurant 200,Bangalore,1502,3.1,Mexican,1000
+Restaurant 22,Hyderabad,2571,3.8,Seafood,1500
+Restaurant 91,Mumbai,3456,4.9,Bakery,1200
+Restaurant 178,Chennai,2193,3.7,Bakery,1500
+Restaurant 154,Kolkata,2798,4.1,Chinese,500
+Restaurant 9,Chennai,3499,4.9,Thai,800
+Restaurant 138,Kolkata,3040,2.7,Italian,1200
+Restaurant 55,Pune,1893,3.4,Italian,800
+Restaurant 68,Mumbai,2523,4.8,Mughlai,500
+Restaurant 150,Ahmedabad,3883,3.8,Thai,1200
+Restaurant 60,Ahmedabad,1290,4.8,Thai,500
+Restaurant 11,Pune,583,4.4,South Indian,1000
+Restaurant 83,Mumbai,4383,3.2,Mughlai,1500
+Restaurant 76,Pune,2840,4.0,Mughlai,1500
+Restaurant 83,Bangalore,1657,4.3,South Indian,1000
+Restaurant 18,Mumbai,152,3.0,Bakery,1000
+Restaurant 128,Bangalore,535,2.5,North Indian,1000
+Restaurant 27,Mumbai,4572,3.6,Bakery,500
+Restaurant 32,Ahmedabad,2499,4.5,South Indian,500
+Restaurant 156,Kolkata,2441,4.6,Street Food,500
+Restaurant 1,Kolkata,2042,4.5,Mughlai,1200
+Restaurant 84,Bangalore,181,3.7,Italian,300
+Restaurant 14,Hyderabad,3146,4.7,Biryani,1500
+Restaurant 184,Delhi,4909,3.5,Mughlai,500
+Restaurant 20,Hyderabad,94,3.0,Japanese,1200
+Restaurant 178,Delhi,4592,3.3,Continental,800
+Restaurant 47,Ahmedabad,4822,4.9,Mughlai,300
+Restaurant 28,Delhi,3328,2.9,South Indian,500
+Restaurant 15,Ahmedabad,4365,4.2,Continental,1500
+Restaurant 10,Delhi,561,2.9,North Indian,1200
+Restaurant 36,Mumbai,2786,3.4,Continental,300
+Restaurant 171,Mumbai,1289,4.1,Mexican,800
+Restaurant 85,Kolkata,3504,3.1,Bakery,500
+Restaurant 139,Chennai,3108,4.8,Italian,1000
+Restaurant 152,Pune,1916,2.7,Biryani,1500
+Restaurant 164,Delhi,787,3.4,Continental,1200
+Restaurant 163,Hyderabad,4352,3.9,Biryani,1500
+Restaurant 165,Kolkata,2903,3.4,Biryani,500
+Restaurant 157,Bangalore,3959,3.7,Italian,1200
+Restaurant 186,Ahmedabad,595,4.5,Biryani,1200
+Restaurant 99,Kolkata,987,2.7,Japanese,300
+Restaurant 158,Bangalore,1286,2.5,South Indian,300
+Restaurant 55,Chennai,2282,4.4,Bakery,1200
+Restaurant 7,Ahmedabad,1044,3.4,Chinese,1000
+Restaurant 147,Ahmedabad,338,4.1,Seafood,1200
+Restaurant 35,Chennai,986,4.1,Continental,300
+Restaurant 160,Pune,1011,2.5,Thai,1000
+Restaurant 171,Chennai,1935,3.8,Thai,500
+Restaurant 16,Delhi,680,2.9,Continental,300
+Restaurant 91,Kolkata,2233,2.8,Italian,1500
+Restaurant 38,Ahmedabad,1104,4.4,Mughlai,1500
+Restaurant 191,Delhi,2981,3.1,Italian,1000
+Restaurant 35,Delhi,3926,4.5,North Indian,1500
+Restaurant 61,Kolkata,2650,3.5,Continental,300
+Restaurant 90,Pune,1498,2.9,Mexican,300
+Restaurant 113,Kolkata,910,4.3,South Indian,500
+Restaurant 134,Bangalore,1456,2.9,Mexican,800
+Restaurant 5,Ahmedabad,3289,2.7,Street Food,300
+Restaurant 190,Ahmedabad,185,4.9,Bakery,1500
+Restaurant 140,Ahmedabad,2981,4.0,Mughlai,500
+Restaurant 134,Hyderabad,3650,4.8,Japanese,1500
+Restaurant 142,Hyderabad,3727,2.9,North Indian,300
+Restaurant 27,Chennai,3637,5.0,Japanese,500
+Restaurant 159,Ahmedabad,2290,3.9,Continental,1500
+Restaurant 19,Ahmedabad,769,4.9,Bakery,1200
+Restaurant 88,Delhi,4832,2.8,Street Food,500
+Restaurant 72,Hyderabad,1371,2.7,Mughlai,1500
+Restaurant 71,Hyderabad,350,4.5,Italian,300
+Restaurant 86,Pune,4829,4.2,Mexican,300
+Restaurant 99,Kolkata,4692,3.1,Mughlai,300
+Restaurant 115,Hyderabad,989,4.8,South Indian,1200
+Restaurant 188,Mumbai,4616,3.6,Seafood,1200
+Restaurant 66,Chennai,4715,3.5,Bakery,1200
+Restaurant 1,Pune,3225,4.5,Bakery,500
+Restaurant 193,Hyderabad,3014,3.8,Mexican,1000
+Restaurant 73,Ahmedabad,3337,4.3,North Indian,500
+Restaurant 157,Delhi,1059,3.1,Street Food,1200
+Restaurant 65,Bangalore,4780,4.8,Thai,500
+Restaurant 195,Ahmedabad,4092,4.6,North Indian,1000
+Restaurant 182,Hyderabad,944,3.6,Street Food,500
+Restaurant 57,Chennai,184,4.7,Mughlai,500
+Restaurant 59,Mumbai,284,2.8,Mexican,1000
+Restaurant 12,Kolkata,2446,3.3,Chinese,800
+Restaurant 159,Mumbai,4462,3.5,Street Food,300
+Restaurant 79,Hyderabad,1995,3.8,Street Food,300
+Restaurant 107,Bangalore,2125,4.2,Continental,800
+Restaurant 192,Bangalore,703,3.6,Japanese,800
+Restaurant 126,Hyderabad,4703,3.9,North Indian,1200
+Restaurant 20,Ahmedabad,4644,3.4,Biryani,300
+Restaurant 25,Ahmedabad,2363,3.1,Japanese,300
+Restaurant 130,Pune,2240,2.6,Bakery,300
+Restaurant 101,Delhi,4683,4.7,Bakery,500
+Restaurant 145,Pune,3382,3.8,Mexican,1000
+Restaurant 96,Pune,3863,3.0,Biryani,800
+Restaurant 2,Pune,1076,3.7,Thai,500
+Restaurant 96,Ahmedabad,3757,4.3,Continental,1000
+Restaurant 100,Hyderabad,128,3.0,North Indian,800
+Restaurant 87,Pune,608,3.5,Street Food,300
+Restaurant 38,Delhi,2891,4.4,North Indian,1500
+Restaurant 160,Bangalore,4736,2.7,South Indian,500
+Restaurant 99,Kolkata,3404,4.9,Street Food,500
+Restaurant 58,Bangalore,3549,3.7,Mexican,500
+Restaurant 176,Ahmedabad,1039,2.8,Italian,1200
+Restaurant 103,Ahmedabad,448,5.0,Bakery,1200
+Restaurant 112,Delhi,494,4.2,Mughlai,500
+Restaurant 5,Kolkata,238,4.7,Mughlai,1000
+Restaurant 46,Kolkata,2723,3.0,Chinese,500
+Restaurant 51,Pune,3359,4.6,Continental,300
+Restaurant 76,Kolkata,520,3.1,Biryani,300
+Restaurant 152,Pune,1639,2.8,Biryani,500
+Restaurant 197,Pune,3229,4.6,Mughlai,1200
+Restaurant 173,Ahmedabad,1475,3.5,Chinese,1000
+Restaurant 26,Ahmedabad,523,4.5,North Indian,1000
+Restaurant 18,Bangalore,1644,4.4,South Indian,300
+Restaurant 9,Hyderabad,196,3.9,North Indian,500
+Restaurant 145,Bangalore,2269,3.3,North Indian,500
+Restaurant 176,Kolkata,2258,3.1,Mexican,500
+Restaurant 152,Mumbai,1314,3.4,Bakery,1200
+Restaurant 56,Chennai,3338,4.1,Thai,800
+Restaurant 106,Hyderabad,3015,2.9,Seafood,1500
+Restaurant 52,Pune,3759,4.8,Thai,800
+Restaurant 67,Chennai,2566,3.4,Japanese,1000
+Restaurant 198,Kolkata,2885,2.9,South Indian,1500
+Restaurant 107,Chennai,2158,4.7,Chinese,500
+Restaurant 164,Ahmedabad,1650,3.4,Mughlai,1200
+Restaurant 154,Pune,72,2.9,Chinese,1500
+Restaurant 147,Chennai,4727,4.0,Street Food,1200
+Restaurant 41,Pune,4029,4.1,Chinese,1000
+Restaurant 183,Chennai,765,3.5,North Indian,500
+Restaurant 177,Delhi,1019,4.7,South Indian,800
+Restaurant 168,Delhi,2071,3.8,Continental,800
+Restaurant 199,Bangalore,730,4.1,Italian,800
+Restaurant 120,Pune,1397,4.4,Japanese,1200
+Restaurant 142,Bangalore,4927,4.4,Street Food,1000
+Restaurant 41,Delhi,1265,3.8,South Indian,500
+Restaurant 51,Pune,4257,3.0,Thai,500
+Restaurant 54,Kolkata,995,4.0,Chinese,800
+Restaurant 12,Bangalore,1037,3.5,Continental,500
+Restaurant 166,Pune,14,3.3,Japanese,300
+Restaurant 150,Chennai,1160,3.7,Street Food,500
+Restaurant 194,Pune,3852,3.5,Street Food,1500
+Restaurant 42,Hyderabad,4079,4.6,Street Food,800
+Restaurant 55,Delhi,4407,3.9,Italian,1500
+Restaurant 18,Kolkata,1790,2.8,Biryani,1200
+Restaurant 150,Pune,3118,2.8,Italian,1500
+Restaurant 172,Delhi,369,4.9,Seafood,300
+Restaurant 55,Mumbai,380,4.4,Chinese,800
+Restaurant 172,Kolkata,2304,3.2,Bakery,1000
+Restaurant 33,Bangalore,4371,2.8,Continental,800
+Restaurant 132,Chennai,4401,4.3,Chinese,800
+Restaurant 100,Delhi,2816,4.4,Street Food,1500
+Restaurant 79,Mumbai,2308,4.7,North Indian,500
+Restaurant 125,Mumbai,408,4.9,Continental,500
+Restaurant 63,Chennai,4806,4.1,Mexican,1200
+Restaurant 196,Ahmedabad,4555,2.7,Mughlai,500
+Restaurant 81,Chennai,4149,4.0,Street Food,1500
+Restaurant 182,Hyderabad,3096,3.1,Bakery,1500
+Restaurant 196,Ahmedabad,3446,3.4,Italian,1500
+Restaurant 189,Delhi,1936,3.8,Thai,500
+Restaurant 74,Chennai,4827,4.1,Mughlai,500
+Restaurant 71,Kolkata,1272,2.6,Seafood,1000
+Restaurant 18,Pune,4662,3.1,Mexican,500
+Restaurant 38,Ahmedabad,4591,4.6,Mexican,1000
+Restaurant 96,Ahmedabad,1345,2.9,Japanese,1000
+Restaurant 49,Delhi,4726,3.9,Italian,1500
+Restaurant 7,Kolkata,1706,3.6,Continental,300
+Restaurant 69,Pune,3548,4.8,Japanese,1500
+Restaurant 144,Hyderabad,4798,3.2,South Indian,800
+Restaurant 102,Pune,1619,3.1,Continental,1000
+Restaurant 186,Bangalore,3062,3.7,Mughlai,1000
+Restaurant 23,Bangalore,1668,4.3,Mughlai,1200
+Restaurant 191,Hyderabad,4195,4.2,North Indian,800
+Restaurant 109,Pune,3974,3.9,Mughlai,1000
+Restaurant 134,Delhi,4519,3.9,Italian,1000
+Restaurant 42,Mumbai,3428,4.0,North Indian,500
+Restaurant 168,Bangalore,2014,2.7,Biryani,1200
+Restaurant 116,Pune,4750,3.5,Mughlai,1500
+Restaurant 179,Delhi,3152,3.9,Street Food,500
+Restaurant 38,Pune,3223,2.8,Japanese,1000
+Restaurant 118,Pune,2348,3.5,Japanese,800
+Restaurant 100,Kolkata,881,3.0,North Indian,300
+Restaurant 200,Chennai,495,4.6,Chinese,800
+Restaurant 44,Kolkata,2972,4.2,Continental,500
+Restaurant 19,Kolkata,1088,3.1,Continental,1000
+Restaurant 187,Mumbai,4103,2.6,Continental,800
+Restaurant 143,Kolkata,908,2.6,Biryani,800
+Restaurant 172,Mumbai,3553,2.7,Italian,800
+Restaurant 60,Mumbai,2252,3.0,South Indian,500
+Restaurant 57,Pune,2887,2.9,Seafood,1500
+Restaurant 67,Bangalore,4170,2.9,Japanese,1000
+Restaurant 86,Kolkata,1876,5.0,Street Food,1200
+Restaurant 125,Hyderabad,4318,2.9,Japanese,1500
+Restaurant 130,Bangalore,2798,3.7,Thai,1500
+Restaurant 145,Bangalore,3823,3.5,Mexican,300
+Restaurant 154,Mumbai,3531,2.8,Thai,500
+Restaurant 186,Kolkata,1717,3.1,Italian,1000
+Restaurant 124,Pune,3377,4.2,Thai,1200
+Restaurant 29,Ahmedabad,892,3.0,Mughlai,500
+Restaurant 25,Bangalore,211,4.8,Thai,1200
+Restaurant 58,Bangalore,225,3.4,Seafood,300
+Restaurant 106,Hyderabad,4591,4.3,Biryani,800
+Restaurant 73,Mumbai,3466,3.3,Thai,500
+Restaurant 79,Delhi,1171,4.7,South Indian,1200
+Restaurant 134,Mumbai,1803,3.2,Japanese,800
+Restaurant 145,Delhi,771,5.0,Japanese,1500
+Restaurant 107,Bangalore,2268,2.6,Chinese,500
+Restaurant 173,Ahmedabad,4039,3.0,Seafood,300
+Restaurant 46,Delhi,1968,4.5,South Indian,300
+Restaurant 106,Chennai,2159,3.1,Japanese,1200
+Restaurant 32,Pune,698,3.9,Japanese,800
+Restaurant 40,Pune,3667,2.9,Thai,300
+Restaurant 76,Delhi,2961,3.2,Thai,500
+Restaurant 180,Bangalore,2609,4.4,Bakery,500
+Restaurant 112,Hyderabad,2067,3.5,Japanese,1500
+Restaurant 47,Hyderabad,4290,3.4,Italian,1200
+Restaurant 129,Bangalore,1827,4.7,Japanese,500
+Restaurant 86,Bangalore,2547,3.6,Thai,800
+Restaurant 67,Delhi,667,4.1,Bakery,800
+Restaurant 150,Delhi,3686,2.9,Japanese,800
+Restaurant 126,Hyderabad,43,3.7,Italian,1500
+Restaurant 32,Pune,951,3.3,Biryani,500
+Restaurant 174,Pune,2078,3.5,South Indian,1000
+Restaurant 95,Ahmedabad,3761,2.6,Seafood,500
+Restaurant 5,Mumbai,554,4.6,Street Food,1500
+Restaurant 111,Hyderabad,3663,3.4,Bakery,1200
+Restaurant 63,Bangalore,1298,3.3,South Indian,500
+Restaurant 182,Delhi,760,4.4,Bakery,1500
+Restaurant 98,Pune,1698,3.7,Continental,500
+Restaurant 55,Bangalore,2595,3.7,Continental,1500
+Restaurant 94,Chennai,1786,3.3,Street Food,500
+Restaurant 187,Pune,2539,4.9,Biryani,500
+Restaurant 85,Ahmedabad,1579,3.1,Seafood,1000
+Restaurant 30,Bangalore,4113,3.3,Italian,300
+Restaurant 132,Hyderabad,4986,3.4,Seafood,500
+Restaurant 50,Kolkata,2484,4.2,Continental,1000
+Restaurant 153,Bangalore,2710,3.9,Mexican,800
+Restaurant 90,Delhi,2054,4.5,Mughlai,1000
+Restaurant 82,Mumbai,4902,4.0,North Indian,1200
+Restaurant 79,Chennai,4067,2.7,Continental,1500
+Restaurant 144,Pune,4993,3.0,Mexican,1200
+Restaurant 33,Ahmedabad,2740,4.1,Japanese,300
+Restaurant 113,Delhi,3906,2.5,South Indian,1000
+Restaurant 32,Pune,1058,4.3,Chinese,1500
+Restaurant 11,Bangalore,3858,3.3,Italian,800
+Restaurant 26,Ahmedabad,2862,3.7,Biryani,1000
+Restaurant 27,Hyderabad,4306,2.6,Chinese,1200
+Restaurant 15,Kolkata,3891,3.9,South Indian,500
+Restaurant 171,Chennai,1366,5.0,Thai,1500
+Restaurant 127,Pune,3075,4.2,Mexican,1000
+Restaurant 156,Delhi,174,3.9,Bakery,300
+Restaurant 149,Bangalore,3661,2.9,Thai,1000
+Restaurant 14,Delhi,4117,3.8,Chinese,800
+Restaurant 36,Hyderabad,2691,2.6,North Indian,800
+Restaurant 66,Hyderabad,3922,4.0,Italian,1500
+Restaurant 117,Ahmedabad,4372,2.6,Seafood,1500
+Restaurant 132,Mumbai,2472,4.9,Chinese,1000
+Restaurant 39,Bangalore,226,3.7,Continental,500
